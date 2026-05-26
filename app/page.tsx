@@ -166,10 +166,10 @@ export default function LuxuryMysteryBox() {
             Mystery Beauty Box
           </h1>
 
-         <p className="mt-6 text-rose-500/80 text-lg md:text-xl max-w-xl mx-auto font-medium leading-relaxed">
+         <p className="mt-6 text-rose-500/80 text-lg md:text-xl max-w-2xl mx-auto font-medium leading-relaxed whitespace-nowrap">
             Tap to reveal your exclusive beauty treasures{" "}
-            <span className="text-3xl md:text-5xl font-black text-pink-600 drop-shadow-lg">
-                  Dear Kashvi aka Minnie
+            <span className="text-3xl md:text-5xl font-black text-pink-600 drop-shadow-lg inline-block">
+               Dear Kashvi aka Minnie
             </span>
           </p>
         </div>
